@@ -5,7 +5,7 @@ digitado aparece na matriz
 """
 import numpy
 
-matriz = numpy.empty([3, 3])
+matriz = numpy.empty([3, 3]) # Cria uma matriz 3x3 vazia
 
 for linha in range(0, 3):
     for coluna in range(0, 3):
